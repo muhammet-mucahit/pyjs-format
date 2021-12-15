@@ -1,0 +1,11 @@
+.app {
+    @apply flex flex-col justify-center items-center bg-white h-screen font-mono py-40
+}
+
+.text_input {
+    @apply focus:ring-indigo-500 focus:border-indigo-500 block w-full pl-7 py-14 pr-12 sm:text-sm border-gray-300 rounded-md
+}
+
+.text_input_label {
+    @apply block text-sm font-medium text-gray-700
+}
