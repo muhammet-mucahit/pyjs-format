@@ -1,3 +1,5 @@
+![Alt text](PythonFormat.gif)
+
 # Testing the App with Cypress
 
 Type command then run the spec file which tests the app
